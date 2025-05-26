@@ -73,4 +73,4 @@ predictive_maintenance_project/
 ## 👤 Автор
 
 Осипов Руслан, группа 5203  
-Репозиторий проекта: [https://github.com/Suslik2005/VKR](https://github.com/Suslik2005/VKR)
+Репозиторий проекта: [https://github.com/Suslik2005/VKR](https://github.com/Suslik2005/predictive_maintenance_project)
